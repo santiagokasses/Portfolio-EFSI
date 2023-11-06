@@ -8,8 +8,8 @@ const CreacionesProvider = (props) => {
         nombre: 'ORT Resuelve',
         descripcion: 'Aplicacion de reportes para ORT.',
         leguaje: 'Node/React',
-        fecha: 'Fines de 2022',
-        respositorio: 'https://github.com/sofygb/TP09',
+        fecha: 'Todo 2023',
+        respositorio: 'https://github.com/axelcy/reportes-ort',
         imagen: null
       },
       {
@@ -18,7 +18,7 @@ const CreacionesProvider = (props) => {
         descripcion: 'Trata de una página que busca consentizar sobre el medio ambiente a través de tres diferentes juegos y un apartado con infomación sobre el tema en cuestión. El primer juego consiste en poner los elementos en el tacho correspondiente, el segundo es un juego de trivia y por ultimo una sopa de letras (pero solo es un ifram de una página).',
         leguaje: 'JS',
         fecha: 'Septiembre 2023',
-        respositorio: 'https://github.com/CamilaAylenLopez/Juego_Medio_Ambiente',
+        respositorio: 'https://github.com/CamilaAylenLopez/TP9-Generating-Awareness',
         imagen: null
       },
       {
