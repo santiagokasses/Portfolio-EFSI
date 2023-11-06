@@ -1,0 +1,67 @@
+.linkEstilo {
+    color: black;
+    text-decoration-line: none;
+}
+
+.espacio{
+    margin-right: 2rem;
+}
+
+.imagenTamaño{
+    width: 8%;
+    padding: 0%;
+}
+
+.derecha{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.layout-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+}
+
+footer {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 1rem;
+    z-index: 100;
+}
+
+.horizontal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2cm;
+    padding-right: 2cm;
+}
+
+.horizontaldos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.redPosicion{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: black;
+    margin-right: 3rem;
+}
+
+.izquierda{
+    display: flex;
+    align-content: flex-start;
+    justify-content:left;
+}
